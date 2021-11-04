@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "jest": "27.3.1"
+  },
+  "devDependencies": {
+    "@knapsack-pro/jest": "5.2.0"
   }
 }
